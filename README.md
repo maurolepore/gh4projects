@@ -1,6 +1,6 @@
 # GitHub to manage projects
 
-(What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+[What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 GitHub is an online platform that help people solve problems by working on projects together. It is popular among those who build software but you can use it to manage projects of any kind. This talk will show you how to manage projects with GitHub, focusing not on code but on features for project management in general.
 
